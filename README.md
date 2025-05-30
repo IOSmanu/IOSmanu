@@ -1,4 +1,4 @@
-# 🪷IOSmanu
+# 💕IOSmanu
 
 **`lmean aka. qpxth (student/application developer/beerfanatic)`**
 
