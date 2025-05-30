@@ -4,7 +4,7 @@
 
 I am passionate about developing Minecraft plugins and collaborate with several streamers in this field. I primarily work with Maven and typically use versions like Spigot 1.21.4 and Java 17.
 Outside of Minecraft plugin development, I enjoy playing games like Hunt: Showdown – 1896, Horizon Forbidden West, Grand Theft Auto, and of course, Minecraft.
-... Sometimes, I just like to relax with a cold beer.
+... Sometimes, I just like to relax with a cold beer.<br/>
 <hr>
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
